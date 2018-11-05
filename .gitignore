@@ -1,0 +1,10 @@
+# python
+*.pyc
+.python-version
+.ipynb_checkpoints/
+
+# mac
+.DS_Store
+
+# pycharm
+.idea/
